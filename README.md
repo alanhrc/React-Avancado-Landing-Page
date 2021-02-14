@@ -1,3 +1,17 @@
+# React-Avançado-Page
+- Nextjs
+- Typescript
+- Jest
+- Strapi
+- GraphQL
+
+<br />
+
+<img src="assets/tela.png" />
+
+<br />
+
+
 # Simple NextJS Quick Start
 
 A simple project starter to work with React, NextJS and Styled Components
