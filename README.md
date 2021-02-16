@@ -1,4 +1,4 @@
-# React-Avançado-Page
+# React-Avançado-Landing-Page
 - Nextjs
 - Typescript
 - Jest
@@ -10,7 +10,11 @@
 <img src="assets/tela.png" />
 
 <br />
+<br />
 
+# <a href="https://react-avancado-strapi.netlify.app" target="_blank">Link para Site no ar</a>
+
+<br />
 
 # Simple NextJS Quick Start
 
